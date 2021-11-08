@@ -41,7 +41,7 @@ All BCH from presale will be added to liquidity and locked at a price of 0.01587
   10.500.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(50%)                            
   
   
-  Liquidity	Pool 
+  Liquidity	Pool                          
   6.300.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(30%)                             
   
  
