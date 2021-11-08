@@ -12,10 +12,10 @@ The transaction is taxed a 10% fee, which is split 2 ways.
 Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
 # Distribution
 
-  Dev Fee	1.050.000.000 (5%)
+  Dev Fee	1.050.000.000 FIRE(5%)
   
-  Marketing 	2.100.000.000 (10%)
+  Marketing 	2.100.000.000 FIRE(10%)
   
-  Presale	9.450.000.000 (45%)
+  Presale	9.450.000.000 FIRE(45%)
   
-  Liquidity	Pool 8.400.000.000 (40%)
+  Liquidity	Pool 8.400.000.000 FIRE(40%)
