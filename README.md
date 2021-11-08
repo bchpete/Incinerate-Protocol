@@ -14,7 +14,8 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
 
  Developer and Marketing wallet will not receive any fees from transactions.
 
-![meta-chart (1)](https://user-images.githubusercontent.com/93559093/140782130-2bf64e3e-05b2-4e98-803e-c880437e28f1.png)
+![meta-chart (2)](https://user-images.githubusercontent.com/93559093/140783250-f26c5f1c-8040-4216-b7ac-58071700b9c0.png)
+
 
 
   Dev Fee	        
