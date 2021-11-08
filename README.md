@@ -19,7 +19,7 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
   
   Marketing 	    2.100.000.000 FIRE(10%)
   
-  Burn 	          2.100.000.000 FIRE(10%)
+  Burn 	          2.100.000.000 FIRE(10%)         0x000000000000000000000000000000000000dEaD
   
   Presale	        9.450.000.000 FIRE(45%)
   
