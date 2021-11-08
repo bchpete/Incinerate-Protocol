@@ -715,10 +715,10 @@ contract Incinerate is Context, IERC20, Ownable {
     string private _symbol = "FIRE";
     uint8 private _decimals = 18;
     
-    uint256 public _taxFee = 6;
+    uint256 public _taxFee = 3;
     uint256 private _previousTaxFee = _taxFee;
     
-    uint256 public _liquidityFee = 4;
+    uint256 public _liquidityFee = 2;
     uint256 private _previousLiquidityFee = _liquidityFee;
 
     IUniswapV2Router02 public immutable uniswapV2Router;
