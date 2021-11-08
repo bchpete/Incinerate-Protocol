@@ -19,7 +19,7 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of Maximum supply.
 
 
 
-  Dev Fee	        
+  Developer Fee	        
   1.050.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(5%)                    
   0x9Cf0061980077b8B7A9AfC707522b20B7F394369
   
