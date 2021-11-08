@@ -15,9 +15,9 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of Maximum supply.
 
 Presale Hardcap is 100 BCH
 
-0.00952380952381 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)
+0.00952380952381 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
-All BCH from presale will be added to liquidity and locked at a price of 0.015873015873016 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)
+All BCH from presale will be added to liquidity and locked at a price of 0.015873015873016 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
  Developer and Marketing wallet will not receive any fees from transactions.
 
