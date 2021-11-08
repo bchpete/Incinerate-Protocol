@@ -3,11 +3,11 @@ Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/935
 
 To decrease the supply of Incinerate, we apply 3 simple functions: Reflection + LP acquisition + Burn-In each trade.
 
-The transaction is taxed a 10% fee, which is split 2 ways.
+The transaction is taxed a 5% fee, which is split 2 ways.
 
-  6% fee is redistributed to all existing holders including a burn wallet.
+  3% fee is redistributed to all existing holders including a burn wallet.
   
-  4% fee is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
+  2% fee is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
 
 Maximum supply is 21.000.000.000(21bln)
 
