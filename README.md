@@ -9,6 +9,8 @@ The transaction is taxed a 5% fee, which is split 2 ways.
   
   2% fee is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
 
+Developer and Marketing wallet will not receive any fees from any transactions at all.
+
 Maximum supply is 21.000.000.000(21bln)
 
 Max FIRE transfered every buy is 500,000,000 which is ~2,38% of Maximum supply.
@@ -16,7 +18,7 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of Maximum supply.
 # Presale 
 Presale Hardcap is 100 BCH
 
-Min limit at  0.01 BCH/1.050.000
+Min limit at  0.01 BCH/1.050.000![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
 Max limit at ~4.75 BCH/500,000,000![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
@@ -24,7 +26,6 @@ Max limit at ~4.75 BCH/500,000,000![SMALLFIRENUMBER1](https://user-images.github
 
 All BCH from presale will be added to liquidity and locked at a price of 0.015873015873016 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
- Developer and Marketing wallet will not receive any fees from any transactions at all.
 
 ![meta-chart (2)](https://user-images.githubusercontent.com/93559093/140783250-f26c5f1c-8040-4216-b7ac-58071700b9c0.png)
 
