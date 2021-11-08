@@ -11,7 +11,6 @@ The transaction is taxed a 10% fee, which is split 2 ways.
 
 Maximum supply is 21.000.000.000(21bln)
 Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
-# Distribution
  Developer and Marketing wallet will not receive any fees from transactions.
 
 ![meta-chart (1)](https://user-images.githubusercontent.com/93559093/140782130-2bf64e3e-05b2-4e98-803e-c880437e28f1.png)
