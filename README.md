@@ -12,17 +12,19 @@ The transaction is taxed a 10% fee, which is split 2 ways.
 
 Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
 # Distribution
+ Developer and Marketing wallet will not receive any fees from transactions.
+
+![meta-chart (1)](https://user-images.githubusercontent.com/93559093/140782130-2bf64e3e-05b2-4e98-803e-c880437e28f1.png)
 
   Maximum supply is 21.000.000.000(21bln)
   
   Dev Fee	        1.050.000.000 FIRE(5%)          0x9Cf0061980077b8B7A9AfC707522b20B7F394369
   
-  Marketing 	    2.100.000.000 FIRE(10%)         0x28026B722Bb83B9cA84bE57bB6F818e3F6038627
+  Marketing 	    1.050.000.000 FIRE(5%)          0x28026B722Bb83B9cA84bE57bB6F818e3F6038627
   
   Burn 	          2.100.000.000 FIRE(10%)         0x000000000000000000000000000000000000dEaD
   
-  Presale	        9.450.000.000 FIRE(45%)         
+  Presale	        10.500.000.000 FIRE(50%)         
   
   Liquidity	Pool  6.300.000.000 FIRE(30%)         
   
-  Developer and Marketing wallet will not receive any fees from transactions.
