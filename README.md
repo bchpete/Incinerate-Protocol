@@ -10,6 +10,7 @@ The transaction is taxed a 10% fee, which is split 2 ways.
   4% fee is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
 
 Maximum supply is 21.000.000.000(21bln)
+
 Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
 
  Developer and Marketing wallet will not receive any fees from transactions.
