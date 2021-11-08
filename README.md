@@ -19,7 +19,7 @@ Presale Hardcap is 100 BCH
 
 All BCH from presale will be added to liquidity and locked at a price of 0.015873015873016 BCH PR 1 mln. ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)FIRE
 
- Developer and Marketing wallet will not receive any fees from transactions.
+ Developer and Marketing wallet will not receive any fees from any transactions at all.
 
 ![meta-chart (2)](https://user-images.githubusercontent.com/93559093/140783250-f26c5f1c-8040-4216-b7ac-58071700b9c0.png)
 
