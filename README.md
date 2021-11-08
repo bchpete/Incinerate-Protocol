@@ -1,5 +1,5 @@
 # Incinerate-Protocol![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)
-Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)) is a fork of of the token SafeMoon with burning tokenomics.
+Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)) is a fork of of the token SafeMoon with burning tokenomics.
 
 To decrease the supply of Incinerate, we apply 3 simple functions: Reflection + LP acquisition + Burn-In each trade.
 
@@ -19,22 +19,22 @@ Max FIRE transfered every buy is 500,000,000 which is ~2,38% of starting supply.
 
 
   Dev Fee	        
-  1.050.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)(5%)
+  1.050.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(5%)
   0x9Cf0061980077b8B7A9AfC707522b20B7F394369
   
   Marketing
-  1.050.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)(5%) 
+  1.050.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(5%) 
   0x28026B722Bb83B9cA84bE57bB6F818e3F6038627
   
   Burn 	         
-  2.100.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)(10%)
+  2.100.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(10%)
   0x000000000000000000000000000000000000dEaD
 
   Presale	        
-  10.500.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)(50%)         
+  10.500.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(50%)         
   
   
   Liquidity	Pool 
-  6.300.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)(30%)         
+  6.300.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(30%)         
   
  
