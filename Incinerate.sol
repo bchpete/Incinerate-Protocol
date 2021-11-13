@@ -727,7 +727,7 @@ contract Incinerate is Context, IERC20, Ownable {
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = true;
     
-    uint256 public _maxTxAmount = 500 * 10**6 * 10**18;
+    uint256 public _maxTxAmount = 2100 * 10**6 * 10**18;
     uint256 private numTokensSellToAddToLiquidity = 500 * 10**6 * 10**18;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
