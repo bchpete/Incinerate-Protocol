@@ -13,8 +13,6 @@ Developer and Marketing wallet will not receive any fees from any transactions a
 
 Maximum supply is 21.000.000.000(21bln)
 
-Max FIRE transfered every buy is 500,000,000 which is ~2,38% of Maximum supply.
-
 # Presale 
 Presale Hardcap is 100 BCH
 
