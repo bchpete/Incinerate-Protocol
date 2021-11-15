@@ -1,7 +1,7 @@
 # Incinerate-Protocol![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784072-a80b980d-a2d1-4be9-b154-f7bf438a253a.png)
-Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)) is a fork of of the token SafeMoon with burning tokenomics on the Smart Bitcoin Cash Chain.
+Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)) is a fork of the token SafeMoon with burning tokenomics on the Smart Bitcoin Cash Chain.
 
-To decrease the supply of Incinerate, we apply 3 simple functions: Reflection + LP acquisition + Burn-In each trade.
+To decrease the supply of Incinerate, we apply 3 simple functions: Fee Distrubition + LP Gain + Burn-In each trade.
 
 The transaction is taxed a 5% fee, which is split 2 ways.
 
