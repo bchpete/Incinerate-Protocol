@@ -3,28 +3,29 @@ Incinerate(FIRE![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/935
 
 To decrease the supply of Incinerate, we apply 3 simple functions: Fee Distrubition + LP Gain + Burn-In each trade.
 
-The transaction is taxed a 5% fee, which is split 2 ways.
+The transaction is taxed a <b>5% fee</b>, which is split 2 ways.
 
-  3% fee is redistributed to all existing holders including a burn wallet.
+  <b>3% fee</b> is redistributed to all existing holders including a burn wallet.
   
-  2% fee is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
+  <b>2% fee</b> is split 50/50 half of which is sold by the contract into BCH, while the other half of the FIRE tokens are paired automatically with the previously mentioned BCH and added as a liquidity pair on MistSwap.
 
-Developer and Marketing wallet will not receive any fees from any transactions at all.
-
-Maximum supply is 21.000.000.000(21bln)
+<b>Developer and Marketing wallet will not receive any fees from any transactions at all.
+</b>
+Maximum supply is 21.000.000.000(<b>21bln</b>)
 
 # Presale 
-Presale Hardcap is 100 BCH
+Presale Hardcap is <b>100 BCH</b>
 
-Min limit at  0.01 BCH
+Min limit at  <b>0.01 BCH</b>
 
-Max limit at 5 BCH
+Max limit at <b>5 BCH</b>
 
-All BCH from presale will be added to liquidity and locked.
-
+<b>All BCH from presale will be added to liquidity and locked.
+</b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93559093/141931545-29665e44-371a-42e0-8948-c93abf123f27.png">
+<img src="https://user-images.githubusercontent.com/93559093/142059553-83cbd9b2-a11a-4cec-82ac-7685021e98fa.png">
 </p>
+
 
 
   Developer Fee	        
@@ -47,5 +48,6 @@ All BCH from presale will be added to liquidity and locked.
   6.300.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(30%)                             
   
   BCHPAD Airdrops
+  
   420.000.000 ![SMALLFIRENUMBER1](https://user-images.githubusercontent.com/93559093/140784416-9abf8f37-2db0-4ce3-8f9b-c11f86bc8efb.png)(2%)
  
