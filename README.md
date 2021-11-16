@@ -22,9 +22,9 @@ Max limit at 5 BCH
 
 All BCH from presale will be added to liquidity and locked.
 
-
-![IncinerateChart](https://user-images.githubusercontent.com/93559093/141930861-5f37a624-c6b6-4a25-bfbb-7b0a84154c1e.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/93559093/141931545-29665e44-371a-42e0-8948-c93abf123f27.png">
+</p>
 
 
   Developer Fee	        
