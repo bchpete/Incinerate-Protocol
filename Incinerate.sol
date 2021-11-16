@@ -728,7 +728,7 @@ contract Incinerate is Context, IERC20, Ownable {
     bool public swapAndLiquifyEnabled = true;
     
     uint256 public _maxTxAmount = 2100 * 10**6 * 10**18;
-    uint256 private numTokensSellToAddToLiquidity = 500 * 10**6 * 10**18;
+    uint256 private numTokensSellToAddToLiquidity = 100 * 10**6 * 10**18;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
@@ -747,7 +747,7 @@ contract Incinerate is Context, IERC20, Ownable {
     constructor () public {
         _rOwned[_msgSender()] = _rTotal;
         
-        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x72a1A3F85e775dbd82D737830190aCB338fd6D71);
+        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x5d0bF8d8c8b054080E2131D8b260a5c6959411B8);
          // Create a uniswap pair for this new token
         uniswapV2Pair = IUniswapV2Factory(_uniswapV2Router.factory())
             .createPair(address(this), _uniswapV2Router.WETH());
@@ -757,7 +757,8 @@ contract Incinerate is Context, IERC20, Ownable {
         
         //exclude owner and this contract from fee
         _isExcludedFromFee[owner()] = true;
-        _isExcludedFromFee[address(this)] = true;
+        _isExcludedFromFee[address(this)] = true;                                        //Developer Wallet Fee Exclusion
+        _isExcludedFromFee[address(0x28026B722Bb83B9cA84bE57bB6F818e3F6038627)] = true;  //Promotion Wallet Fee Exclusion
         
         emit Transfer(address(0), _msgSender(), _tTotal);
     }
