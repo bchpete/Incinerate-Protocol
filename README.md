@@ -11,6 +11,7 @@ The transaction is taxed a <b>5% fee</b>, which is split 2 ways.
 
 <b>Developer and Marketing wallet will not receive any fees from any transactions at all.
 </b>
+
 Maximum supply is 21.000.000.000(<b>21bln</b>)
 
 # Presale 
